@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="470.0" prefWidth="374.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.MK.PopRegister.view.NewEditDialogController">
+   <children>
+      <GridPane layoutX="6.0" layoutY="6.0" prefHeight="326.0" prefWidth="366.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="160.80003662109374" minWidth="10.0" prefWidth="159.2" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="180.5999755859375" minWidth="10.0" prefWidth="148.8" />
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label text="Imię" />
+            <Label text="Nazwisko" GridPane.rowIndex="1" />
+            <Label text="Data urodzenia" GridPane.rowIndex="2" />
+            <Label text="Pesel" GridPane.rowIndex="3" />
+            <Label text="Miejscowość" GridPane.rowIndex="4" />
+            <Label text="Nazwa ulicy" GridPane.rowIndex="5" />
+            <Label text="Numer domu/bloku" GridPane.rowIndex="6" />
+            <Label text="Numer mieszkania**" GridPane.rowIndex="7" />
+            <Label text="Kod pocztowy" GridPane.rowIndex="8" />
+            <Label text="Adres e-mail*" GridPane.rowIndex="9" />
+            <Label text="Numer kontaktowy*" GridPane.rowIndex="10" />
+            <TextField fx:id="nameField" GridPane.columnIndex="1" />
+            <TextField fx:id="surnameField" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <TextField fx:id="peselField" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+            <TextField fx:id="localityField" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+            <TextField fx:id="streetField" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+            <TextField fx:id="housblockNumberField" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+            <TextField fx:id="flatNumberField" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+            <TextField fx:id="postalCodeField" GridPane.columnIndex="1" GridPane.rowIndex="8" />
+            <TextField fx:id="emailField" GridPane.columnIndex="1" GridPane.rowIndex="9" />
+            <TextField fx:id="phoneNumberField" GridPane.columnIndex="1" GridPane.rowIndex="10" />
+            <DatePicker fx:id="birthdayField" prefHeight="26.0" prefWidth="186.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+         </children>
+      </GridPane>
+      <Label layoutX="6.0" layoutY="337.0" text="* - pola niewymagane">
+         <font>
+            <Font size="9.0" />
+         </font>
+      </Label>
+      <Label layoutX="6.0" layoutY="350.0" text="** - jeśli istnieje">
+         <font>
+            <Font size="9.0" />
+         </font>
+      </Label>
+      <Button layoutX="187.0" layoutY="336.0" mnemonicParsing="false" onAction="#confirmHandle" text="ZATWIERDŹ" />
+      <Button layoutX="290.0" layoutY="336.0" mnemonicParsing="false" onAction="#cancelHandle" text="ANULUJ" />
+      <Button layoutX="301.0" layoutY="397.0" mnemonicParsing="false" onAction="#addPhotoHandle" text="Dodaj" />
+      <Label fx:id="photoLabel" layoutX="115.0" layoutY="399.0" text="(opcjonalne) Dodaj zdjęcie" />
+      <Label fx:id="pathToFileLabel" layoutX="23.0" layoutY="439.0" />
+      <Button layoutX="304.0" layoutY="435.0" mnemonicParsing="false" onAction="#deletePhotoHandle" text="Usuń" />
+   </children>
+</AnchorPane>
