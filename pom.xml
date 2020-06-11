@@ -31,7 +31,7 @@ l<?xml version="1.0" encoding="UTF-8"?>
             <dependency>
 				<groupId>org.openjfx</groupId>
 				<artifactId>javafx-controls</artifactId>
-				<version>11</version>
+				<version>8</version>
 			</dependency>
             <dependency>
                 <groupId>org.junit.jupiter</groupId>
