@@ -194,7 +194,7 @@
         <houseblockNumber>6</houseblockNumber>
         <locality>Konin</locality>
         <name>Kalina</name>
-        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/87011381591.jpg</pathToFile>
+        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/87011381591.jpg</pathToFile>
         <pesel>87011381591</pesel>
         <phoneNumber>778204668</phoneNumber>
         <postalCode>62510</postalCode>
@@ -244,7 +244,7 @@
         <houseblockNumber>90</houseblockNumber>
         <locality>Jaworzno</locality>
         <name>Sebastian</name>
-        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/90120228765.jpg</pathToFile>
+        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/90120228765.jpg</pathToFile>
         <pesel>90120228765</pesel>
         <phoneNumber>765897000</phoneNumber>
         <postalCode>43600</postalCode>
@@ -269,7 +269,7 @@
         <houseblockNumber>11</houseblockNumber>
         <locality>Opole</locality>
         <name>Kazimierz</name>
-        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/73103087634.jpg</pathToFile>
+        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/73103087634.jpg</pathToFile>
         <pesel>73103087634</pesel>
         <phoneNumber>567000342</phoneNumber>
         <postalCode>45940</postalCode>
@@ -295,7 +295,7 @@
         <houseblockNumber>9</houseblockNumber>
         <locality>Poznań</locality>
         <name>Telimena</name>
-        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/49090276542.jpg</pathToFile>
+        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/49090276542.jpg</pathToFile>
         <pesel>49090276542</pesel>
         <postalCode>60586</postalCode>
         <street>Miła</street>
@@ -489,7 +489,7 @@
         <flatNumber>54</flatNumber>
         <houseblockNumber>8</houseblockNumber>
         <locality>Gliwice</locality>
-        <name>Bartlomiej</name>
+        <name>Bartłomiej</name>
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/02060487678.jpg</pathToFile>
         <pesel>02060487678</pesel>
         <phoneNumber>654653276</phoneNumber>
@@ -555,7 +555,7 @@
         <houseblockNumber>1</houseblockNumber>
         <locality>Olsztyk</locality>
         <name>Gertruda</name>
-        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/87120436576.jpg</pathToFile>
+        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/87120436576.jpg</pathToFile>
         <pesel>87120436576</pesel>
         <postalCode>10-413</postalCode>
         <street>Dworcowa</street>
@@ -580,11 +580,25 @@
         <houseblockNumber>76</houseblockNumber>
         <locality>Opole</locality>
         <name>Konrad</name>
-        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/90030454343.jpg</pathToFile>
+        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/90030454343.jpg</pathToFile>
         <pesel>90030454343</pesel>
         <phoneNumber>875383722</phoneNumber>
         <postalCode>45-127</postalCode>
         <street>Goscinna</street>
         <surname>Kot</surname>
+    </person>
+    <person>
+        <birthday>1981-12-18</birthday>
+        <email>tyramciezko@o2.pl</email>
+        <flatNumber>5</flatNumber>
+        <houseblockNumber>12E</houseblockNumber>
+        <locality>Poznan</locality>
+        <name>Monika</name>
+        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/81121855358.jpg</pathToFile>
+        <pesel>81121855358</pesel>
+        <phoneNumber>887990161</phoneNumber>
+        <postalCode>61245</postalCode>
+        <street>Panny</street>
+        <surname>Okrągła</surname>
     </person>
 </persons>
