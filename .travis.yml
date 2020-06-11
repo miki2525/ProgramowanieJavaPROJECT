@@ -6,6 +6,6 @@ jdk:
   - openjdk8 
 
 script:
-  - mvn clean package
+  - mvn clean install
 after_success:
   - bash <(curl -s https://codecov.io/bash)
