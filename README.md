@@ -1,2 +1,2 @@
-# PopulationRegisterApplication [![Build Status](https://travis-ci.org/s20157-pj/prg2JavaPROJECT.svg?branch=master)](https://travis-ci.org/s20157-pj/prg2JavaPROJECT)
+# PopulationRegisterApplication [![Build Status](https://travis-ci.org/s20157-pj/prg2JavaPROJECT.svg?branch=master)](https://travis-ci.org/s20157-pj/prg2JavaPROJECT) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/100fa4372c004091b56ae22724b38b68)](https://app.codacy.com/manual/s20157-pj/prg2JavaPROJECT?utm_source=github.com&utm_medium=referral&utm_content=s20157-pj/prg2JavaPROJECT&utm_campaign=Badge_Grade_Dashboard)
 Aplikacja jest implementacją systemu zapisu osób do pewnego systemu ewidencji ludności.
