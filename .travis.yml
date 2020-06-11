@@ -1,22 +1,11 @@
-{
-  "language": "java",
-  "sudo": false,
-  "addons": {
-    "apt": {
-      "packages": [
-        "oracle-java8-installer"
-      ]
-    }
-  },
-  "before-install": [
-    "sudo apt-get update -q",
-    "sudo apt-get install openjfx -y"
-  ],
-  "script": "mvn clean install",
-  "group": "stable",
-  "dist": "trusty",
-  "os": "linux"
-"after_success":[
-  "bash <(curl -s https://codecov.io/bash)"
-]
-}
+language: java
+sudo: false # faster builds
+
+jdk:
+  - openjdk11
+  - openjdk8 
+
+script:
+  - mvn clean package
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
