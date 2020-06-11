@@ -26,7 +26,8 @@ public interface FileChooserWithExt {
     default FileChooser createFileChooserWithImageExt() {
         FileChooser fileChooser = new FileChooser();
         FileChooser.ExtensionFilter extensionFilter = new FileChooser.ExtensionFilter
-                ("Pliki obrazu (*.jpg, *jpeg, *png)", "*.jpg", "*.jpeg", "*.png");
+                ("Pliki obrazu (*.jpg, *jpeg, *png, *gif, *jfif)",
+                        "*.jpg", "*.jpeg", "*.png", "*.gif", "*jfif");
         fileChooser.getExtensionFilters().add(extensionFilter);
         return fileChooser;
     }

@@ -87,6 +87,9 @@ public class Person {
         this.photo = null;
         this.pathtoFile = new SimpleStringProperty("");
     }
+    public void setNextID() {
+        --nextID;
+    }
 
     public int getId() {
         return id.get();

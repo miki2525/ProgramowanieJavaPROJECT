@@ -112,7 +112,7 @@
         <houseblockNumber>3e</houseblockNumber>
         <locality>Białystok</locality>
         <name>Grażyna</name>
-        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/54062289111.jpg</pathToFile>
+        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/54062289111.jpg</pathToFile>
         <pesel>54062289111</pesel>
         <postalCode>15871</postalCode>
         <street>ks Adama Abramowicza</street>
@@ -139,7 +139,7 @@
         <houseblockNumber>13b</houseblockNumber>
         <locality>Bydgoszcz</locality>
         <name>Agata</name>
-        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/92040585991.jpg</pathToFile>
+        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/92040585991.jpg</pathToFile>
         <pesel>92040585991</pesel>
         <phoneNumber>589336282</phoneNumber>
         <postalCode>85-009</postalCode>
@@ -592,7 +592,7 @@
         <email>tyramciezko@o2.pl</email>
         <flatNumber>5</flatNumber>
         <houseblockNumber>12E</houseblockNumber>
-        <locality>Poznan</locality>
+        <locality>Poznań</locality>
         <name>Monika</name>
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/81121855358.jpg</pathToFile>
         <pesel>81121855358</pesel>
@@ -600,5 +600,60 @@
         <postalCode>61245</postalCode>
         <street>Panny</street>
         <surname>Okrągła</surname>
+    </person>
+    <person>
+        <birthday>1955-06-15</birthday>
+        <flatNumber>3</flatNumber>
+        <houseblockNumber>21</houseblockNumber>
+        <locality>Rzeszów</locality>
+        <name>Anna</name>
+        <pathToFile></pathToFile>
+        <pesel>55061588771</pesel>
+        <phoneNumber>558111112</phoneNumber>
+        <postalCode>35062</postalCode>
+        <street>Władysława Bełzy</street>
+        <surname>Urbaniak</surname>
+    </person>
+    <person>
+        <birthday>1930-01-01</birthday>
+        <email>wlapaw30@gmail.com</email>
+        <flatNumber>12</flatNumber>
+        <houseblockNumber>63a</houseblockNumber>
+        <locality>Warszawa</locality>
+        <name>Władysława</name>
+        <pathToFile></pathToFile>
+        <pesel>30010114884</pesel>
+        <phoneNumber>887154228</phoneNumber>
+        <postalCode>02-495</postalCode>
+        <street>Zakątek</street>
+        <surname>Pawlak</surname>
+    </person>
+    <person>
+        <birthday>1985-10-12</birthday>
+        <email>lubiesie55@interia.pl</email>
+        <flatNumber>12</flatNumber>
+        <houseblockNumber>252</houseblockNumber>
+        <locality>Łódź</locality>
+        <name>Dominika</name>
+        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/85101230033.jpg</pathToFile>
+        <pesel>85101230033</pesel>
+        <phoneNumber>660881550</phoneNumber>
+        <postalCode>92338</postalCode>
+        <street>Stanisława Przybyszewskiego</street>
+        <surname>Brechwa</surname>
+    </person>
+    <person>
+        <birthday>1982-10-30</birthday>
+        <email>nieklamie82@tlen.pl</email>
+        <flatNumber>5</flatNumber>
+        <houseblockNumber>12</houseblockNumber>
+        <locality>Police</locality>
+        <name>Natalia</name>
+        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/82103087651.jpg</pathToFile>
+        <pesel>82103087651</pesel>
+        <phoneNumber>874660123</phoneNumber>
+        <postalCode>72-010</postalCode>
+        <street>Wiejska</street>
+        <surname>Kłamczucha</surname>
     </person>
 </persons>

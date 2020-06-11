@@ -107,6 +107,7 @@ public class NewEditDialogController implements Validator, FileChooserWithExt, C
 
     @FXML
     private void cancelHandle(){
+        person.setNextID();
         dialogStage.close();
     }
 
