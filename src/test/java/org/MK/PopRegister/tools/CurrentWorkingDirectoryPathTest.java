@@ -31,7 +31,7 @@ class CurrentWorkingDirectoryPathTest {
     @Test
     void pathToString() {
         Path path = Paths.get("");
-        assertEquals(path.toAbsolutePath().toString() + "/target/IDs/" +
+        assertEquals(path.toAbsolutePath().toString() + "/src/main/IDs/" +
                 "85052512345.jpg", currentWorkingDirectoryPathTest.pathToString(personTest));
     }
 }

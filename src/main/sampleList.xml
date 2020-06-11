@@ -437,9 +437,9 @@
         <birthday>1970-07-03</birthday>
         <flatNumber>32</flatNumber>
         <houseblockNumber>76</houseblockNumber>
-        <locality>Piekary Slaskie</locality>
+        <locality>Piekary Śląskie</locality>
         <name>Jakub</name>
-        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/70070388787.jpg</pathToFile>
+        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/70070388787.jpg</pathToFile>
         <pesel>70070388787</pesel>
         <phoneNumber>876353627</phoneNumber>
         <postalCode>41940</postalCode>
@@ -450,7 +450,7 @@
         <birthday>2002-01-03</birthday>
         <email>totuty2@wp.pl</email>
         <houseblockNumber>78</houseblockNumber>
-        <locality>Piekary Slaskie</locality>
+        <locality>Piekary Śląskie</locality>
         <name>Bogdan</name>
         <pathToFile></pathToFile>
         <pesel>02010398787</pesel>
@@ -490,7 +490,7 @@
         <houseblockNumber>8</houseblockNumber>
         <locality>Gliwice</locality>
         <name>Bartlomiej</name>
-        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/02060487678.jpg</pathToFile>
+        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/02060487678.jpg</pathToFile>
         <pesel>02060487678</pesel>
         <phoneNumber>654653276</phoneNumber>
         <postalCode>44-100</postalCode>
@@ -516,7 +516,7 @@
         <houseblockNumber>9</houseblockNumber>
         <locality>Jaworzno</locality>
         <name>Dominik</name>
-        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/00090678909.jpg</pathToFile>
+        <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/00090678909.jpg</pathToFile>
         <pesel>00090678909</pesel>
         <phoneNumber>765383765</phoneNumber>
         <postalCode>43-608</postalCode>
