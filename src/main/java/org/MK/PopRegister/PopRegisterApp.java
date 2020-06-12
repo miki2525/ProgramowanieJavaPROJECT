@@ -155,15 +155,14 @@ public class PopRegisterApp extends Application {
         try {
             FXMLLoader loader = new FXMLLoader();
             loader.setLocation(getClass().getResource("/closeDialog.fxml"));
-            AnchorPane searchDialog = null;
-            searchDialog = loader.load();
+            AnchorPane closeDialog = loader.load();
 
 
             Stage dialogStage = new Stage();
             dialogStage.setTitle("Potwierdzenie zamknięcia");
             dialogStage.initModality(Modality.WINDOW_MODAL);
             dialogStage.initOwner(primaryStage);
-            dialogStage.setScene(new Scene(searchDialog));
+            dialogStage.setScene(new Scene(closeDialog));
 
             CloseDialogController ctrl = loader.getController();
             ctrl.setDialogStage(dialogStage);
