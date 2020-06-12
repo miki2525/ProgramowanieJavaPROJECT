@@ -128,7 +128,15 @@ public class NewEditDialogController implements Validator, FileChooserWithExt, C
             person.setStreet(streetField.getText());
             person.setHouseblockNumber(housblockNumberField.getText());
             person.setFlatNumber(flatNumberField.getText());
+            /////domyślnie zapis kodu pocztowego z myślnikiem
+            if(postalCodeField.getText().charAt(2) != '-'){
+                postalCodeField.setText(postalCodeField.getText().substring(0,2) +
+                        "-" + postalCodeField.getText().substring(2));
+                person.setPostalCode(postalCodeField.getText());
+            }
+            else{
             person.setPostalCode(postalCodeField.getText());
+            }
             person.setEmail(emailField.getText());
             person.setPhoneNumber(phoneNumberField.getText());
 

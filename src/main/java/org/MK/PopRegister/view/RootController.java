@@ -12,6 +12,9 @@ import org.MK.PopRegister.PopRegisterApp;
 import org.MK.PopRegister.tools.FileChooserWithExt;
 
 import java.io.File;
+import java.net.MalformedURLException;
+import java.net.URISyntaxException;
+import java.net.URL;
 
 /**
  * Obiekt <code>RootController</code> jest kontrolerem umożliającym zapis do pliku, bądź odczyt z pliku XML.
@@ -118,11 +121,11 @@ public class RootController implements FileChooserWithExt {
      * kliklnięcia przez użytkownika przycisku 'Informacje'
      */
     @FXML
-    private void infoHandle() {
+    private void infoHandle() throws MalformedURLException, URISyntaxException {
         Alert alert = new Alert(Alert.AlertType.INFORMATION);
         alert.setTitle("PopulationRegister");
         alert.setHeaderText("Informacje");
-        alert.setContentText("Ver. 2.0.0.1\nAutor: Mikołaj Kalata\n https://github.com/s20157-pj/prg2JavaPROJECT");
+        alert.setContentText("Ver. 2.2.2.1\nAutor: Mikołaj Kalata\nhttps://github.com/s20157-pj/prg2JavaPROJECT");
 
         alert.showAndWait();
     }

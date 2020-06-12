@@ -171,7 +171,7 @@
                   <Label layoutX="-7.0" layoutY="463.0" scaleX="0.7" scaleY="0.7" text="** - jeśli istnieje" />
                   <AnchorPane layoutY="441.0" prefHeight="12.0" prefWidth="2050.0" style="-fx-background-color: lightpink;" AnchorPane.topAnchor="441.0" />
                   <AnchorPane layoutX="-52.0" layoutY="554.0" prefHeight="12.0" prefWidth="2050.0" style="-fx-background-color: lightpink;" AnchorPane.bottomAnchor="38.799999999999955" />
-                  <Label layoutX="392.0" layoutY="592.0" text="PopulationRegisterApplication ver 2.0.0.1" AnchorPane.bottomAnchor="0.7999999999999545" AnchorPane.rightAnchor="2.400000000000034">
+                  <Label layoutX="392.0" layoutY="592.0" text="PopulationRegisterApplication ver 2.2.2.1" AnchorPane.bottomAnchor="0.7999999999999545" AnchorPane.rightAnchor="2.400000000000034">
                      <font>
                         <Font size="9.0" />
                      </font>

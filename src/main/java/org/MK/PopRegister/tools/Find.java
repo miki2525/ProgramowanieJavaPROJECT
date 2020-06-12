@@ -25,12 +25,14 @@ public class Find {
 
 
                 String postalCode = phrase;
-                if (postalCode.charAt(2) == '-') {
-                    postalCode = phrase.substring(0, 2) + phrase.substring(3);
+                if (postalCode.charAt(2) != '-') {
+                    postalCode = phrase.substring(0, 2) + '-' + phrase.substring(2);
                 }
 
                 if (phrase.toUpperCase().equals(sourceList.get(i).getName().toUpperCase())) {
-                    destList.add(sourceList.get(i));
+                    if (!destList.contains(sourceList.get(i))) {
+                        destList.add(sourceList.get(i));
+                    }
                 }
 
                 if (phrase.toUpperCase().equals(sourceList.get(i).getSurname().toUpperCase())) {
@@ -38,8 +40,7 @@ public class Find {
                         destList.add(sourceList.get(i));
                     }
                 }
-
-                /////data ur. format "YYYMMDD"
+                /////data ur. format "YYYYMMDD"
                 if (phrase.equals(sourceList.get(i).getPesel().substring(0,6))) {
                     if (!destList.contains(sourceList.get(i))) {
                         destList.add(sourceList.get(i));

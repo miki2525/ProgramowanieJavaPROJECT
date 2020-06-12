@@ -23,7 +23,7 @@
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/83031377651.jpg</pathToFile>
         <pesel>83031377651</pesel>
         <phoneNumber>889715996</phoneNumber>
-        <postalCode>72015</postalCode>
+        <postalCode>72-015</postalCode>
         <street>Świętego Marcina</street>
         <surname>Peszek</surname>
     </person>
@@ -63,7 +63,7 @@
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/91112076551.jpg</pathToFile>
         <pesel>91112076551</pesel>
         <phoneNumber>881666528</phoneNumber>
-        <postalCode>32851</postalCode>
+        <postalCode>32-851</postalCode>
         <street>Św Anny</street>
         <surname>Kalacz-Barkowska</surname>
     </person>
@@ -76,7 +76,7 @@
         <name>Michał</name>
         <pathToFile></pathToFile>
         <pesel>79072588735</pesel>
-        <postalCode>14200</postalCode>
+        <postalCode>14-200</postalCode>
         <street>Piaskowa</street>
         <surname>Gołąbek</surname>
     </person>
@@ -89,7 +89,7 @@
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/00031455791.jpg</pathToFile>
         <pesel>00031455791</pesel>
         <phoneNumber>558639117</phoneNumber>
-        <postalCode>80299</postalCode>
+        <postalCode>80-299</postalCode>
         <street>Dębowa</street>
         <surname>Pękała</surname>
     </person>
@@ -102,7 +102,7 @@
         <name>Marian</name>
         <pathToFile></pathToFile>
         <pesel>88051732559</pesel>
-        <postalCode>71218</postalCode>
+        <postalCode>71-218</postalCode>
         <street>Ziołowa</street>
         <surname>Wojtek</surname>
     </person>
@@ -114,7 +114,7 @@
         <name>Grażyna</name>
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/54062289111.jpg</pathToFile>
         <pesel>54062289111</pesel>
-        <postalCode>15871</postalCode>
+        <postalCode>15-871</postalCode>
         <street>ks Adama Abramowicza</street>
         <surname>Peszek</surname>
     </person>
@@ -128,7 +128,7 @@
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/93111789054.jpg</pathToFile>
         <pesel>93111789054</pesel>
         <phoneNumber>558771593</phoneNumber>
-        <postalCode>31466</postalCode>
+        <postalCode>31-466</postalCode>
         <street>Akacjowa</street>
         <surname>Pawlikowski</surname>
     </person>
@@ -155,7 +155,7 @@
         <name>Maja</name>
         <pathToFile></pathToFile>
         <pesel>83051387113</pesel>
-        <postalCode>09408</postalCode>
+        <postalCode>09-408</postalCode>
         <street>Kujawska</street>
         <surname>Żądło</surname>
     </person>
@@ -169,7 +169,7 @@
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/33121567661.jpg</pathToFile>
         <pesel>33121567661</pesel>
         <phoneNumber>608007195</phoneNumber>
-        <postalCode>61471</postalCode>
+        <postalCode>61-471</postalCode>
         <street>Opolska</street>
         <surname>Prawdziwa</surname>
     </person>
@@ -183,7 +183,7 @@
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/83091167332.jpg</pathToFile>
         <pesel>83091167332</pesel>
         <phoneNumber>889774251</phoneNumber>
-        <postalCode>42221</postalCode>
+        <postalCode>42-221</postalCode>
         <street>Kosów</street>
         <surname>Nieznajomy</surname>
     </person>
@@ -197,7 +197,7 @@
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/87011381591.jpg</pathToFile>
         <pesel>87011381591</pesel>
         <phoneNumber>778204668</phoneNumber>
-        <postalCode>62510</postalCode>
+        <postalCode>62-510</postalCode>
         <street>Kujawska</street>
         <surname>Kalina</surname>
     </person>
@@ -234,7 +234,7 @@
         <name>Leon</name>
         <pathToFile></pathToFile>
         <pesel>65061112378</pesel>
-        <postalCode>42280</postalCode>
+        <postalCode>42-280</postalCode>
         <street>Torowa</street>
         <surname>Zielonka</surname>
     </person>
@@ -247,7 +247,7 @@
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/90120228765.jpg</pathToFile>
         <pesel>90120228765</pesel>
         <phoneNumber>765897000</phoneNumber>
-        <postalCode>43600</postalCode>
+        <postalCode>43-600</postalCode>
         <street>Młynarska</street>
         <surname>Janaszkiewicz</surname>
     </person>
@@ -259,7 +259,7 @@
         <name>Jagna</name>
         <pathToFile></pathToFile>
         <pesel>88112298765</pesel>
-        <postalCode>30690</postalCode>
+        <postalCode>30-690</postalCode>
         <street>Błotna</street>
         <surname>Łapacz</surname>
     </person>
@@ -272,7 +272,7 @@
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/73103087634.jpg</pathToFile>
         <pesel>73103087634</pesel>
         <phoneNumber>567000342</phoneNumber>
-        <postalCode>45940</postalCode>
+        <postalCode>45-940</postalCode>
         <street>Hiacyntowa</street>
         <surname>Grzelak</surname>
     </person>
@@ -285,7 +285,7 @@
         <pathToFile></pathToFile>
         <pesel>65061787632</pesel>
         <phoneNumber>678342987</phoneNumber>
-        <postalCode>61058</postalCode>
+        <postalCode>61-058</postalCode>
         <street>Mewy</street>
         <surname>Pawluch</surname>
     </person>
@@ -297,7 +297,7 @@
         <name>Telimena</name>
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/49090276542.jpg</pathToFile>
         <pesel>49090276542</pesel>
-        <postalCode>60586</postalCode>
+        <postalCode>60-586</postalCode>
         <street>Miła</street>
         <surname>Sadowska</surname>
     </person>
@@ -308,7 +308,7 @@
         <name>Sandra</name>
         <pathToFile></pathToFile>
         <pesel>67062376354</pesel>
-        <postalCode>09140</postalCode>
+        <postalCode>09-140</postalCode>
         <street>Stary Komunin</street>
         <surname>Frańczak</surname>
     </person>
@@ -322,7 +322,7 @@
         <pathToFile></pathToFile>
         <pesel>86102987554</pesel>
         <phoneNumber>504888710</phoneNumber>
-        <postalCode>83011</postalCode>
+        <postalCode>83-011</postalCode>
         <street>Dębowa</street>
         <surname>Marek</surname>
     </person>
@@ -362,7 +362,7 @@
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\PopulationRegisterApp/src/main/IDs/69061387543.jpg</pathToFile>
         <pesel>69061387543</pesel>
         <phoneNumber>876346233</phoneNumber>
-        <postalCode>44337</postalCode>
+        <postalCode>44-337</postalCode>
         <street>Torowa</street>
         <surname>Sass</surname>
     </person>
@@ -442,7 +442,7 @@
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/70070388787.jpg</pathToFile>
         <pesel>70070388787</pesel>
         <phoneNumber>876353627</phoneNumber>
-        <postalCode>41940</postalCode>
+        <postalCode>41-940</postalCode>
         <street>Krotka</street>
         <surname>Urbaniak</surname>
     </person>
@@ -455,7 +455,7 @@
         <pathToFile></pathToFile>
         <pesel>02010398787</pesel>
         <phoneNumber>504635273</phoneNumber>
-        <postalCode>41943</postalCode>
+        <postalCode>41-943</postalCode>
         <street>Koscielna</street>
         <surname>Wolnik</surname>
     </person>
@@ -545,7 +545,7 @@
         <pathToFile></pathToFile>
         <pesel>01062498765</pesel>
         <phoneNumber>876473647</phoneNumber>
-        <postalCode>46203</postalCode>
+        <postalCode>46-203</postalCode>
         <street>Gałczyńskiego</street>
         <surname>Fudalej</surname>
     </person>
@@ -597,7 +597,7 @@
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/81121855358.jpg</pathToFile>
         <pesel>81121855358</pesel>
         <phoneNumber>887990161</phoneNumber>
-        <postalCode>61245</postalCode>
+        <postalCode>61-245</postalCode>
         <street>Panny</street>
         <surname>Okrągła</surname>
     </person>
@@ -610,7 +610,7 @@
         <pathToFile></pathToFile>
         <pesel>55061588771</pesel>
         <phoneNumber>558111112</phoneNumber>
-        <postalCode>35062</postalCode>
+        <postalCode>35-062</postalCode>
         <street>Władysława Bełzy</street>
         <surname>Urbaniak</surname>
     </person>
@@ -638,7 +638,7 @@
         <pathToFile>C:\Users\Doktor\Desktop\gazy\Irok\IIsemestr\PRG - JAVA\project\prg2JavaPROJECT/src/main/IDs/85101230033.jpg</pathToFile>
         <pesel>85101230033</pesel>
         <phoneNumber>660881550</phoneNumber>
-        <postalCode>92338</postalCode>
+        <postalCode>92-338</postalCode>
         <street>Stanisława Przybyszewskiego</street>
         <surname>Brechwa</surname>
     </person>
@@ -664,7 +664,7 @@
         <pathToFile></pathToFile>
         <pesel>64021158771</pesel>
         <phoneNumber>881554921</phoneNumber>
-        <postalCode>05825</postalCode>
+        <postalCode>05-825</postalCode>
         <street>Wysoka</street>
         <surname>Jądro</surname>
     </person>
@@ -692,7 +692,7 @@
         <pathToFile></pathToFile>
         <pesel>92040581554</pesel>
         <phoneNumber>997881545</phoneNumber>
-        <postalCode>81578</postalCode>
+        <postalCode>81-578</postalCode>
         <street>bpa Pelczara</street>
         <surname>Lubiła</surname>
     </person>
@@ -745,7 +745,7 @@
         <pathToFile></pathToFile>
         <pesel>79052188993</pesel>
         <phoneNumber>605881542</phoneNumber>
-        <postalCode>05120</postalCode>
+        <postalCode>05-120</postalCode>
         <street>Graniczna</street>
         <surname>Hetman</surname>
     </person>
