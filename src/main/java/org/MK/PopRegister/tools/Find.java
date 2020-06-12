@@ -39,6 +39,13 @@ public class Find {
                     }
                 }
 
+                /////data ur. format "YYYMMDD"
+                if (phrase.equals(sourceList.get(i).getPesel().substring(0,6))) {
+                    if (!destList.contains(sourceList.get(i))) {
+                        destList.add(sourceList.get(i));
+                    }
+                }
+
                 if (phrase.equals(sourceList.get(i).getPesel())) {
                     if (!destList.contains(sourceList.get(i))) {
                         destList.add(sourceList.get(i));

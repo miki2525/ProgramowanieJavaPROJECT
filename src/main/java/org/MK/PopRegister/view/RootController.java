@@ -40,6 +40,7 @@ public class RootController implements FileChooserWithExt {
     private void newHandle() {
         popRegisterApp.getPersonList().clear();
         popRegisterApp.setPathFilePreference(null);
+        popRegisterApp.getPrimaryStage().setTitle("Ewidencja ludności");
     }
 
     /**
@@ -121,7 +122,7 @@ public class RootController implements FileChooserWithExt {
         Alert alert = new Alert(Alert.AlertType.INFORMATION);
         alert.setTitle("PopulationRegister");
         alert.setHeaderText("Informacje");
-        alert.setContentText("Ver. 2.0.0.1\nAutor: Mikołaj Kalata\n https://github.com/s20157-pj/");
+        alert.setContentText("Ver. 2.0.0.1\nAutor: Mikołaj Kalata\n https://github.com/s20157-pj/prg2JavaPROJECT");
 
         alert.showAndWait();
     }
